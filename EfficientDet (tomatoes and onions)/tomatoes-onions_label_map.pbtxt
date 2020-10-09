@@ -1,10 +1,10 @@
 item {
-    name: "onions",
+    name: "cup",
     id: 1,
-    display_name: "onions"
+    display_name: "cup"
 }
 item {
-    name: "tomatoes",
+    name: "duck",
     id: 2,
-    display_name: "tomatoes"
+    display_name: "duck"
 }
